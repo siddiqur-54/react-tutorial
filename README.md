@@ -5,8 +5,7 @@ I would like to express my gratitude to Mr. Rabbil Hasan for his excellent YouTu
 - [Link to the Tutorial](https://www.youtube.com/watch?v=6wilewRV3xQ)
 - [Rabbil Hasan's YouTube Channel](https://www.youtube.com/@RabbilHasanRupom)
 
-
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
